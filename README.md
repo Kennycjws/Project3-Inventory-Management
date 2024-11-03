@@ -30,7 +30,7 @@ Overview:
   pipenv install django-crispy-forms
   ```
   
-  - Install Crispy Bootstrap5
+- Install Crispy Bootstrap5
   ```sh
   pipenv install crispy-bootstrap5
   ```
