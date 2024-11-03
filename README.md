@@ -1,4 +1,4 @@
-# Project3-Inventory-management
+# Project 3: Inventory Management System
 
 ### Aboout The Project
 Overview:
