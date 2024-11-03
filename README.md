@@ -44,3 +44,9 @@ Overview:
   ```sh
   python manage.py runserver
   ```
+  
+## Built with
+* [![Django][Django.js]][Django-url]
+
+[Django.js]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+[Django-url]: https://www.djangoproject.com/
